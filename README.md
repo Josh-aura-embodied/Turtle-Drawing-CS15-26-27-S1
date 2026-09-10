@@ -1,4 +1,4 @@
-# Activity 2: Trying out Turtle
+bn # Activity 2: Trying out Turtle
 
 In this activity, we will explore our first built-in library: Turtle! Turtle allows you to create a visual output for your program.
 
